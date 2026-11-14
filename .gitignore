@@ -10,3 +10,6 @@ index.js
 index.js.map
 *.d.ts
 *.tsbuildinfo
+index.ts
+index.ts
+package-lock.json
